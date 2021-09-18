@@ -4,7 +4,6 @@ function main () {
     
 // Ovo je jednoredni Javascript komentar
 
-
    /* 
     document.writer ("This is a multi-line comment!");
     document.writer ("This is a multi-line comment!");
@@ -15,12 +14,8 @@ function main () {
 
     */
 
-
-
     // Only change code above this line
-
 }
 
 console.log(main());
-
 module.exports = main;
